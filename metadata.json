@@ -1,0 +1,8 @@
+{
+  "name": "TourArchitect",
+  "description": "A professional tool for tour creators to record, sequence, and export location-based experiences with GPS and photo support.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
